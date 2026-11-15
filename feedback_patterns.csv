@@ -1,0 +1,21 @@
+id,company,role,theme,pattern,source_year
+f001,General,Any,Communication,Answers that state the conclusion first and then give reasoning were rated clearer than long unstructured explanations.,sample
+f002,General,Any,Examples,Candidates who backed every claim with a specific project or internship example scored higher than those who only gave definitions.,sample
+f003,General,Any,HR answers,Generic statements about learning and growth without a concrete story were repeatedly marked down.,sample
+f004,General,Software Engineer,Complexity,Interviewers noted candidates who could not state the time and space complexity of their own code.,sample
+f005,General,Data Analyst,Business thinking,Analysts were rated higher when they connected a metric to a business decision rather than only describing the technique.,sample
+f006,TCS,Software Engineer,Fundamentals,"Panels repeatedly tested DBMS, OOP and one programming language in depth; weak basics were penalised more than lack of advanced topics.",sample
+f007,TCS,Any,Attitude,"Feedback often mentioned willingness to relocate, learn and adapt as an important soft-signal.",sample
+f008,TCS,Software Engineer,Coding,Candidates who explained their approach before writing code were rated better than those who started typing immediately.,sample
+f009,Infosys,Software Engineer,Projects,Questions frequently dug into the candidate's own project; vague answers about personal contribution were marked down.,sample
+f010,Infosys,Any,Aptitude,Speed and accuracy in basic aptitude was noted; showing steps clearly helped partial credit.,sample
+f011,Infosys,Software Engineer,SQL,"Candidates who confused DELETE, TRUNCATE and DROP or the join types lost marks on database rounds.",sample
+f012,Wipro,Software Engineer,Core concepts,Overloading versus overriding and HashMap internals appeared in feedback as common gaps.,sample
+f013,Wipro,Any,Communication,Clear and calm communication under pressure was repeatedly highlighted in positive feedback.,sample
+f014,Accenture,Software Engineer,Modern tech,"Panels liked basic awareness of cloud, REST and Agile; buzzword use without explanation was marked down.",sample
+f015,Accenture,Any,Teamwork,Behavioural answers with a clear own-action and result were rated higher than answers describing only the team.,sample
+f016,Amazon,Software Engineer,Optimisation,Candidates were expected to move from a brute-force solution to an optimised one and justify the trade-off aloud.,sample
+f017,Amazon,Any,STAR stories,Answers without measurable results or the candidate's own actions (using I instead of we) were scored low.,sample
+f018,Amazon,Software Engineer,System design,Clarifying requirements and stating trade-offs before drawing components was rated better than jumping into a design.,sample
+f019,Capgemini,Software Engineer,Basics,"Feedback highlighted the need for crisp basics in SQL, OOP and one language; rambling answers were penalised.",sample
+f020,Capgemini,Any,Company knowledge,Candidates who knew the company's services and could link them to their interests were rated higher in HR rounds.,sample
